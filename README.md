@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=![Image](https://github.com/user-attachments/assets/6206ae2d-ef5c-4ec8-ab42-a2cfae9d63b9) height="150"/>
+  <img src="https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/062320d5-f765-42df-b503-7222f6a0a737.jpg" height="250"/>
 </p>
 <p align="center">
 Hi! I'm Maurey Reyes of C204! 😃
@@ -42,3 +42,27 @@ Projects: 🐱‍👤
 Projects: 🐱‍🏍  
 
 --- 
+##  🤪Fun Fact About Me🤪
+
+- 🥰I’ve got a big crush on Zenitsu⚡
+- 🖥️I love playing computer and mobile games   
+- 🤞 The midnight hours bring out my productivity    
+- 🐇 The quiet keeps me awake, so I sleep best with noise
+
+---
+
+### Connect with me🤳
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mreyes24-005@cca.edu.ph" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61578841031137" target="_blank">
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/wuhrryu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  &nbsp;&nbsp;
+</p>
