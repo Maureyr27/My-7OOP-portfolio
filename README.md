@@ -30,7 +30,6 @@ I’m someone who values balance. I enjoy my personal time, yet I also appreciat
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
 ---
 
 ## 💻 My Projects  
