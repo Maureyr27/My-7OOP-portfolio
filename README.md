@@ -7,6 +7,7 @@ Hi! I'm Maurey Reyes of C204! 😃
 
 ## 🌟 About Me
 I’m someone who values balance. I enjoy my personal time, yet I also appreciate having good company by my side. I can be lowkey competitive, always pushing myself to improve while carefully overthinking my choices before making a move. Challenges and pressure don’t intimidate me; in fact, I welcome them as opportunities to grow and step outside my comfort zone.
+---
 
 ### Areas of Interest:
 - Multimedia
@@ -30,4 +31,14 @@ I’m someone who values balance. I enjoy my personal time, yet I also appreciat
 </div>
 
 ###
+---
 
+## 💻 My Projects  
+
+### MY MIDTERM  
+Projects: 🐱‍👤
+
+### FINALS  
+Projects: 🐱‍🏍  
+
+--- 
