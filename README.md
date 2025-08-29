@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="062320d5-f765-42df-b503-7222f6a0a737]https://github.com/user-attachments/assets/77e0cf63-6a7a-42b8-a4e5-8d74fb1e012f"height="150"/>
+  <img src=![Image](https://github.com/user-attachments/assets/6206ae2d-ef5c-4ec8-ab42-a2cfae9d63b9) height="150"/>
 </p>
 <p align="center">
 Hi! I'm Maurey Reyes of C204! 😃
