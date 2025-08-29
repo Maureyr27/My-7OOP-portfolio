@@ -31,16 +31,16 @@ I’m someone who values balance. I enjoy my personal time, yet I also appreciat
 </div>
 ---
 
-## 💻 My Projects  
+## My Projects  
 
 ### MY MIDTERM  
-Projects: 🐱‍👤
+Links: 🐱‍👤
 ---
 ### FINALS  
-Projects: 🐱‍🏍  
+Links: 🐱‍🏍  
 
 --- 
-##  🤪Fun Fact About Me🤪
+## Fun Fact About Me🤪
 
 - 🥰I’ve got a big crush on Zenitsu⚡
 - 🖥️I love playing computer and mobile games   
