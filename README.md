@@ -33,10 +33,10 @@ I’m someone who values balance. I enjoy my personal time, yet I also appreciat
 ## My Projects  
 
 ### MY MIDTERM  
-Links: 🐱‍👤
+Links:🐱‍👤
 
 ### FINALS  
-Links: 🐱‍🏍  
+Links:🐱‍🏍
 
 --- 
 ## Fun Fact About Me🤪
