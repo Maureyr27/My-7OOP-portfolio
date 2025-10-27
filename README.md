@@ -33,7 +33,17 @@ I’m someone who values balance. I enjoy my personal time, yet I also appreciat
 ## My Projects  
 
 ### MY MIDTERM  
-Links:🐱‍👤
+[Midterm Paired Task](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/Midterms_Activities/Midterms%20Paired%20Task%201.pdf)> Object Oriented Analysis
+
+[Midterm Lab Task 1](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/Midterms_Activities/midterm%20lab%20task%201.pdf)> Escape Sequence, Type Specifiers, Accept User Input and Day Identifier
+
+[Midterm Lab Task 2](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/Midterms_Activities/Midterm%20Lab%20task%202.pdf)> Using Loops and Functions
+
+[Midterm Lab Task 3](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/Midterms_Activities/Midterm%20lab%20task%203.pdf)> Using List Collections
+
+[Midterm Lab Task 4](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/Midterms_Activities/midterm%20lab%20task%204.pdf)> Using Dictionary Collections
+
+[Midterm Lab Task 5](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/Midterms_Activities/midterm%20lab%20task%205.pdf)> Creating class and Instantiating Objects in Python
 
 ### FINALS  
 Links:🐱‍🏍
