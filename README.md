@@ -46,7 +46,17 @@ I’m someone who values balance. I enjoy my personal time, yet I also appreciat
 [Midterm Lab Task 5](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/Midterms_Activities/midterm%20lab%20task%205.pdf)> Creating class and Instantiating Objects in Python
 
 ### FINALS  
-Links:🐱‍🏍
+[Final Lab Task 1](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/FINAL%20Lab%20task/Reyes-Encapsulation.pdf)> Encapsulation
+
+[Final Lab Task 2](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/FINAL%20Lab%20task/Reyes_LabTask2Finals.pdf)> Inheritance
+
+[Final Lab Task 3](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/FINAL%20Lab%20task/Reyes_FinalTask3.pdf)> Polymorphism
+
+[Final Lab Task 4](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/FINAL%20Lab%20task/Reyes_FinalLabTask4.pdf)> Python GUI and Tkinter
+
+[Final Lab Task 5](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/FINAL%20Lab%20task/Finals%20Lab%20Task%205%20-%20Reyes.pdf)> CRUD CLI and Python using MySql
+
+[Final Lab Task 6](https://github.com/Maureyr27/My-7OOP-portfolio/blob/main/FINAL%20Lab%20task/Reyes_FinalLabTask6.pdf)> MySQL and Tkinter HUI
 
 --- 
 ## Fun Fact About Me🤪
